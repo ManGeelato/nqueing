@@ -29,14 +29,6 @@ const InteractiveMap = () => {
               <p>Test</p>
             </div>
           </div>
-          <div className="map-directions">
-            <h3>Getting Here</h3>
-            <ul>
-              <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-              <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-              <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-            </ul>
-          </div>
         </div>
       </div>
     </div>

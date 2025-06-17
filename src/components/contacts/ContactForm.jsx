@@ -91,10 +91,9 @@ const ContactForm = () => {
             >
               <option value="">Please select</option>
               <option value="General Inquiry">General Inquiry</option>
-              <option value="Appointment Information">Appointment Information</option>
-              <option value="Insurance Question">Imports & Export</option>
-              <option value="Billing Question">Vehicle Registration</option>
-              <option value="Medical Records">Cross Border Permits</option>
+              <option value="Cross Border Permits">Cross Border Permits</option>
+              <option value="Import & Export Licenses">Import & Export Licenses</option>
+              <option value="Vehicle Registration & Plates">Vehicle Registration & Plates</option>
               <option value="Other">Other</option>
             </select>
           </div>
