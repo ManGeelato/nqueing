@@ -6,8 +6,8 @@ import { useNavigate } from "react-router-dom";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import banner01 from "../../assets/images/hero01.jpeg";
-import banner02 from "../../assets/images/hero02.jpeg";
-import banner03 from "../../assets/images/hero03.jpeg";
+import banner02 from "../../assets/images/crossB.png";
+import banner03 from "../../assets/images/Attachment1_20345.jpeg";
 import "./Hero.css";
 
 function Hero() {
@@ -40,7 +40,7 @@ function Hero() {
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         pagination={{ clickable: true }}
-        autoplay={{ delay: 5000 }}
+        autoplay={{ delay: 7000 }}
         loop={true}
         className="h-[full]"
       >
