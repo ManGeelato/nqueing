@@ -154,7 +154,7 @@ const ImportExportServices = () => {
         style={imgStyle}
       />
 
-      {section('1) Import and Export Services', [
+      {section('Import and Export Services', [
         { name: 'Import and export registration', price: 'R2480,00', action: 'add' },
         { name: 'Amend existing import export registration or add trade agreement', price: 'R1950,00', action: 'add' },
         { name: 'Authorised economic operator (AEO) enrollment', price: 'R4600,00', action: 'add' },
@@ -164,7 +164,7 @@ const ImportExportServices = () => {
         { name: 'Advance Payment Notification (APN) Code Generation', price: '', action: 'speak' },
       ])}
 
-      {section('2) Certificates of Origin', [
+      {section('Certificates of Origin', [
         { name: 'EUR.1 certificate of origin', price: 'R1450,00 – R4900,00', action: 'select' },
         { name: 'SADC certificate of origin', price: 'R1450,00 – R4900,00', action: 'select' },
         { name: 'MERCOSUR certificate of origin', price: 'R1450,00 – R4900,00', action: 'select' },
@@ -173,7 +173,7 @@ const ImportExportServices = () => {
         { name: 'AfCFTA certificate of origin', price: 'R1450,00 – R4900,00', action: 'select' },
       ])}
 
-      {section('3) Business Services', [
+      {section('Business Services', [
         { name: 'Company registration', price: 'R980,00 – R1280,00', action: 'select' },
         { name: 'VAT registration', price: 'R2980,00', action: 'add' },
         { name: 'SARS eFiling set up', price: 'R2550,00', action: 'add' },
@@ -191,7 +191,7 @@ const ImportExportServices = () => {
         { name: 'Company Beneficial Ownership Filing', price: 'R1250,00', action: 'add' },
       ])}
 
-      {section('4) Bonded Transport, Clearing & Freight Industry', [
+      {section('Bonded Transport, Clearing & Freight Industry', [
         { name: 'Remover of goods in bond, transporter, consignor bond and renewals', price: 'R3800,00 – R5600,00', action: 'select' },
         { name: 'Clearing agent (customs broker) registrations and renewals', price: 'R3800,00 – R4600,00', action: 'select' },
         { name: 'Deferment account application', price: 'R3600,00 – R5950,00', action: 'select' },
@@ -200,7 +200,7 @@ const ImportExportServices = () => {
         { name: 'Cross border permit', price: 'R3570,00 – R10190,00', action: 'select' },
       ])}
 
-      {section('5) Foreigner Services', [
+      {section('Foreigner Services', [
         { name: 'Company annual maintenance package', price: 'R4350,00', action: 'add' },
         { name: 'Foreign Road Haulier and linkage to SA agent', price: 'R5950,00', action: 'add' },
         { name: 'Import and export registration for foreigners', price: 'R2500,00 – R4500,00', action: 'select' },
@@ -211,7 +211,7 @@ const ImportExportServices = () => {
         { name: 'Company registration with foreign directors', price: 'R980,00 – R1280,00', action: 'select' },
       ])}
 
-      {section('6) Virtual Office Services', [
+      {section('Virtual Office Services', [
         { name: 'Virtual office rental (ex VAT)', price: '', action: 'speak' },
         { name: 'Post forwarding service (ex VAT)', price: 'R250,00 – R2500,00', action: 'select' },
         { name: 'Customs registered agent services', price: '', action: 'speak' },
