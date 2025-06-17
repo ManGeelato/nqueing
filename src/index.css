@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    color: #313132;
+    background-color: #f7f6f6;
+  }
+  @media (max-width: 750px) {
+    body {
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 25px;
+      color: #323234;
+      background-color: #ffffff;
+    }
+  }

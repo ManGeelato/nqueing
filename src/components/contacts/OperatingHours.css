@@ -1,0 +1,87 @@
+/* OperatingHours.css */
+.hours-container {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    padding: 24px;
+    margin-bottom: 24px;
+  }
+  
+  .hours-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+  }
+  
+  .hours-icon {
+    color: #36B37E;
+    min-width: 24px;
+    height: 24px;
+  }
+  
+  .hours-header h2 {
+    color: #1A6CBD;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .hours-table {
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #E8F1FA;
+  }
+  
+  .hours-row {
+    display: flex;
+    align-items: center;
+    padding: 12px 16px;
+    border-bottom: 1px solid #E8F1FA;
+  }
+  
+  .hours-row:last-child {
+    border-bottom: none;
+  }
+  
+  .hours-row.today {
+    background-color: #E8F1FA;
+    font-weight: 500;
+  }
+  
+  .day {
+    flex: 1;
+    color: #333F4D;
+    font-size: 16px;
+  }
+  
+  .time {
+    flex: 1;
+    color: #67758D;
+    font-size: 16px;
+    text-align: right;
+  }
+  
+  .hours-notes {
+    margin-top: 16px;
+    padding: 12px;
+    background-color: #F7F9FC;
+    border-radius: 6px;
+  }
+  
+  .hours-notes p {
+    color: #67758D;
+    margin: 0 0 8px 0;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  .hours-notes p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .hours-notes strong {
+    color: #333F4D;
+  }
