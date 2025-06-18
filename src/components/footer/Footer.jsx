@@ -23,7 +23,7 @@ const Footer = () => {
         <div className="footer-container">
           <div className="footer-grid">
             <div className="footer-about">
-              <h5 className="logo-text">NN Queueing Services</h5>
+              <h5 className="logo-text">NQueueing Services</h5>
               <div className="divider"></div>
               <p className="footer-tagline">
                 Your trusted partner for seamless import/export documentation, 
@@ -104,7 +104,7 @@ const Footer = () => {
         <div className="footer-container">
           <div className="footer-bottom-content">
             <p className="copyright">
-              © {currentYear} NN Queueing Services. All rights reserved.
+              © {currentYear} NQueueing Services. All rights reserved.
             </p>
             <div className="footer-legal">
               <a href="#">Privacy Policy</a>

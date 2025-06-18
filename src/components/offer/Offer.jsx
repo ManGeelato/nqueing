@@ -7,7 +7,7 @@ function Offer() {
         <h1>About Us</h1>
       </div>
       <p>
-        At Queueing Services, we specialize in simplifying complex cross-border processes for businesses and individuals across the region. With a strong focus on import/export licensing, cross-border permits, 
+        At NQueueing Services, we specialize in simplifying complex cross-border processes for businesses and individuals across the region. With a strong focus on import/export licensing, cross-border permits, 
         and vehicle and registration plate services, we are your trusted partner in ensuring compliance, efficiency, and speed in every transaction.
       </p>
       <p>
@@ -32,7 +32,7 @@ function Offer() {
         </ul>
         <p>
           From small enterprises to large logistics firms, our clients rely on us to keep their operations running smoothly. 
-          Let us help you stay compliant and ahead of the curve—because at Queueing Services , we don’t just process documents, we open doors.
+          Let us help you stay compliant and ahead of the curve—because at NQueueing Services , we don’t just process documents, we open doors.
         </p>
       </div>
     </div>
