@@ -64,12 +64,12 @@ function Navbar() {
         <div className="nav-top-cardlocation">
           <small id="top-nav-add">
             <IoLocation />
-            123 Test Road Street, Mars
+            4 Rysdal Place Ormonde Extension 1 Johannesburg South 2091
           </small>
         </div>
         <div id="nav-top-card">
           <small id="top-nav-addt">
-            <FaSquarePhone />+27 61 350 9663
+            <FaSquarePhone />+ +27 78 534 6180
           </small>
         </div>
       </div>

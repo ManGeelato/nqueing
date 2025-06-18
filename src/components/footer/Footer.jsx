@@ -34,7 +34,7 @@ const Footer = () => {
               <div className="footer-contact-info">
                 <div className="contact-item">
                   <FaPhone className="contact-icon" />
-                  <span>+27 61 350 9663</span>
+                  <span>+ +27 78 534 6180</span>
                 </div>
                 <div className="contact-item">
                   <FaEnvelope className="contact-icon" />
@@ -42,7 +42,7 @@ const Footer = () => {
                 </div>
                 <div className="contact-item">
                   <FaMapMarkerAlt className="contact-icon" />
-                  <span>123 Test Road Street, Mars</span>
+                  <span>4 Rysdal Place Ormonde Extension 1 Johannesburg South 2091</span>
                 </div>
               </div>
             </div>

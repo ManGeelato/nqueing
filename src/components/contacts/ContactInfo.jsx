@@ -11,8 +11,8 @@ const ContactInfo = () => {
           <Phone className="contact-icon" />
           <div>
             <h3>Phone</h3>
-            <p>Main Line: +27 61 350 96630</p>
-            <p>Appointment:+27 61 350 96630</p>
+            <p>Main Line: + 27 78 534 6180</p>
+            <p>Appointment:+ 27 78 534 6180</p>
           </div>
         </div>
         
