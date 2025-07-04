@@ -78,7 +78,7 @@ function Navbar() {
         <div className="mitral-logo" onClick={() => navigate("/")}>
           <img
             src={logo}
-            alt="Nqueueing Logo"
+            alt="SAQueingLogo"
             style={{
               width: "100px",
               height: "auto",
