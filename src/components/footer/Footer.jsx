@@ -106,6 +106,12 @@ const Footer = () => {
             <p className="copyright">
               © {currentYear} SAQueing Services. All rights reserved.
             </p>
+             <p className="copyright">
+              © {currentYear} Designed by
+                <a href="https://emmanuelkaome-mangeelato.vercel.app/" target="_blank"
+                  >Emmanuel 'Gadaffi' Kaome</a
+                >
+            </p>
             <div className="footer-legal">
               <a href="#">Privacy Policy</a>
               <a href="#">Terms of Service</a>
